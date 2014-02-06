@@ -16,3 +16,5 @@ Because sometimes things just need to be "that" easy.
     .Body("Hello World")
     .Send();
     
+### Install
+	PM> Install-Package Missive
