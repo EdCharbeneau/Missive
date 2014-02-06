@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Missive.Templates.Simple</id>
+        <version>1.0.0</version>
+        <title>Missive.Templates.Simple</title>
+        <authors>echarbeneau</authors>
+        <owners>Ed Charbeneau</owners>
+        <projectUrl>https://github.com/EdCharbeneau/Missive/tree/master/Missive.Templates.Simple</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Use it with Missive Fluent API
+
+You don't have to, but you can. Because it's just that easy, and they go together like peas and carrots anyway.</description>
+        <summary>A simple mail template helper
+
+Reads a simple text file, finds and replaces values. Nothing uber, robust, or elite; just simple.</summary>
+        <releaseNotes>Just getting it out there.</releaseNotes>
+    </metadata>
+    <files>
+        <file src="..\readme.md" target="content\Missive.Templates.Simple\readme.md" />
+        <file src="..\bin\Release\Missive.Templates.Simple.dll" target="lib\Missive.Templates.Simple.dll" />
+    </files>
+</package>
