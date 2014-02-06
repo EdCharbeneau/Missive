@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Missive</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>Missive</title>
         <authors>echarbeneau</authors>
         <owners>Ed Charbeneau</owners>
@@ -21,7 +21,7 @@ Because sometimes things just need to be "that" easy.</summary>
         </frameworkAssemblies>
     </metadata>
     <files>
-        <file src="..\..\readme.md" target="content\App_Readme\readme.md" />
+        <file src="..\..\readme.md" target="content\App_Readme\Missive\readme.md" />
         <file src="..\bin\Release\Missive.dll" target="lib\Missive.dll" />
     </files>
 </package>

@@ -17,7 +17,7 @@ Reads a simple text file, finds and replaces values. Nothing uber, robust, or el
         <releaseNotes>Just getting it out there.</releaseNotes>
     </metadata>
     <files>
-        <file src="..\readme.md" target="content\Missive.Templates.Simple\readme.md" />
+        <file src="..\readme.md" target="content\App_Readme\Missive.Templates.Simple\readme.md" />
         <file src="..\bin\Release\Missive.Templates.Simple.dll" target="lib\Missive.Templates.Simple.dll" />
     </files>
 </package>
