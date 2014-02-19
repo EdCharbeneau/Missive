@@ -18,3 +18,8 @@ Because sometimes things just need to be "that" easy.
     
 ### Install
 	PM> Install-Package Missive
+
+### See how Razor templates work
+[https://github.com/EdCharbeneau/Missive/tree/master/Missive.Templates.Razor](https://github.com/EdCharbeneau/Missive/tree/master/Missive.Templates.Razor "Razor Templates")
+
+	PM> Install-Package Missive.Templates.Razor
