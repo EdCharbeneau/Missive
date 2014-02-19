@@ -9,7 +9,7 @@ namespace Missive.Templates.Razor
     public static class RazorTemplate
     {
         /// <summary>
-        /// Takes the model T and applies to a razor template.
+        /// Applies a model to a razor template.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="model">Model</param>
