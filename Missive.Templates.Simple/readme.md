@@ -45,8 +45,8 @@ You don't have to, but you can. Because it's just that easy, and they go togethe
     Mailer.Create()
     .From("from@domain.com")
     .To("email@domain.com")
-    .Subject(template.Body)
-    .Body("Hello World")
+    .Subject("Hello World")
+    .Body(template.Body)
     .Send();
 
 ### Install
